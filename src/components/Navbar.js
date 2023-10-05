@@ -11,7 +11,7 @@ class Navbar extends Component {
   render() {
     return (
       <nav className="NavbarItems">
-        <h1 className="navbar-logo">Trippy</h1>
+        <h1 className="navbar-logo">Voyage</h1>
 
         <div className="menu-icons" onClick={this.handleClick}>
           <i
@@ -30,7 +30,7 @@ class Navbar extends Component {
               </li>
             );
           })}
-          <button>Sign Up</button>
+          <button>Inscription</button>
         </ul>
       </nav>
     );

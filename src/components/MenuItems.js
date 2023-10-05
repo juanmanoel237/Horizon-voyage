@@ -1,18 +1,18 @@
 export const MenuItems = [
   {
-    title: "Home",
+    title: "Accueil",
     url: "/",
     cName: "nav-links",
     icon: "fa-solid fa-house-user",
   },
   {
-    title: "About",
+    title: "A Propos",
     url: "/about",
     cName: "nav-links",
     icon: "fa-solid fa-circle-info",
   },
   {
-    title: "Service",
+    title: "Services",
     url: "/service",
     cName: "nav-links",
     icon: "fa-solid fa-briefcase",
@@ -24,7 +24,7 @@ export const MenuItems = [
     icon: "fa-solid fa-address-book",
   },
   {
-    title: "Sign Up",
+    title: "Inscription",
     url: "/signup",
     cName: "nav-links-mobile",
   },
