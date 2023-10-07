@@ -12,7 +12,7 @@ const Destinations = () => {
       <h1>Destinations Populaires</h1>
       <p>
         Horizon Voyage vous donne l'opportunité de découvrir plein de choses en
-        un court laps de temps
+        un court laps de temps. Vous ne serez pas decu.
       </p>
 
       <DestinationData
