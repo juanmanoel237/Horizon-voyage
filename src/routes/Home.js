@@ -3,6 +3,7 @@ import Navbar from "../components/Navbar";
 import Voiture from "../assets/hero.jpg";
 import Destinations from "../components/Destinations";
 import Trip from "../components/Trip";
+import Footer from "../components/Footer";
 function Home() {
   return (
     <>
@@ -18,6 +19,7 @@ function Home() {
       />
       <Destinations />
       <Trip />
+      <Footer />
     </>
   );
 }

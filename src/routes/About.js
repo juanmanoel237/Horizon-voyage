@@ -1,6 +1,7 @@
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import AboutImg from "../assets/chinois.jpg";
+import Footer from "../components/Footer";
 function About() {
   return (
     <>
@@ -11,6 +12,7 @@ function About() {
         title="A Propos"
         btnClass="hide"
       />
+      <Footer />
     </>
   );
 }
