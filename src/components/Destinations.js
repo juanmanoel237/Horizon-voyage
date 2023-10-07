@@ -11,8 +11,8 @@ const Destinations = () => {
     <div className="destination">
       <h1>Destinations Populaires</h1>
       <p>
-        Tours vous donne l'opportunité de découvrir plein de choses en un court
-        laps de temps
+        Horizon Voyage vous donne l'opportunité de découvrir plein de choses en
+        un court laps de temps
       </p>
 
       <DestinationData
