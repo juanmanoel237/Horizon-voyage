@@ -2,6 +2,7 @@ import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
 import Voiture from "../assets/hero.jpg";
 import Destinations from "../components/Destinations";
+import Trip from "../components/Trip";
 function Home() {
   return (
     <>
@@ -16,6 +17,7 @@ function Home() {
         btnClass="show"
       />
       <Destinations />
+      <Trip />
     </>
   );
 }
