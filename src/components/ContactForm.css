@@ -36,6 +36,6 @@
   }
   .form-container form {
     padding-top: 2rem;
-    width: 0%;
+    width: 100%;
   }
 }
